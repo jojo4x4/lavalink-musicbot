@@ -19,6 +19,6 @@
   "homepage": "https://github.com/jojo4x4/lavalink-musicbot#readme",
   "dependencies": {
     "discord.js": "^11.5.0",
-    "discord.js-lavalink": "^2.2.2"
+    "discord.js-lavalink-musicbot": "0.0.8"
   }
 }
